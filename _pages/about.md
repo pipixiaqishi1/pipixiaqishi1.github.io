@@ -16,7 +16,9 @@ My research interests lie in efficient decision-making systems with powerful gen
 
 # 📝 Publications 
 ## Conference Paper
-- [Uncertainty-driven Trajectory Truncation for Data Augmentation in Offline Reinforcement Learning](https://arxiv.org/abs/2304.04660). **Junjie Zhang**\*, Jiafei Lyu\*, Xiaoteng Ma, Jiangpeng Yan, Jun Yang, Le Wan, Xiu Li. *European Conference on Artificial Intelligence* (**ECAI**), 2023.
+- [SAM-E: Leveraging Visual Foundation Model with Sequence Imitation for Embodied Manipulation](). **Junjie Zhang**, Chenjia Bai, Haoran He, Zhigang Wang, Bin Zhao, Xiu Li, Xuelong Li. *International Conference on Machine Learning* (**ICML**), 2024.
+
+- [Uncertainty-driven Trajectory Truncation for Data Augmentation in Offline Reinforcement Learning](https://arxiv.org/abs/2304.04660). **Junjie Zhang**\*, Jiafei Lyu\*, Xiaoteng Ma, Jiangpeng Yan, Jun Yang, Le Wan, Xiu Li. *European Conference on Artificial Intelligence* (**ECAI**, <font color="red">Oral</font>), 2023.
 
 - [Benchmarking Robustness and Generalization in Multi-Agent Systems: A Case Study on Neural MMO](https://arxiv.org/abs/2308.15802). Yangkun Chen\*, Joseph Suarez\*, **Junjie Zhang**\*, Chenghui Yu, Bo Wu, Hanmo Chen, Hengman Zhu, Rui Du, Shanliang Qian, Shuai Liu, Weijun Hong, Jinke He, Yibing Zhang, Liang Zhao, Clare Zhu, Julian Togelius, Sharada Mohanty, Jiaxin Chen, Xiu Li, Xiaolong Zhu, Phillip Isola. *International Conference on Autonomous Agents and MultiAgent Systems* (**AAMAS**), 2023.
 
